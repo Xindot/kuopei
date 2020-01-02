@@ -1,1 +1,1 @@
-![](kuopei.png)
+![kuopei-logo](./kuopei-logo.png)
