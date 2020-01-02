@@ -1,1 +1,1 @@
-sss
+![](kuopei.png)
