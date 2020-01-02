@@ -1,1 +1,1 @@
-![kuopei-logo](./kuopei-logo.png){:width="100"}
+![kuopei-logo](./kuopei-logo.png){:style="width:100px;"}
